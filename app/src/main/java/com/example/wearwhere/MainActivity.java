@@ -22,6 +22,9 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        // Main code starts here
+
         try {
             PackageInfo info = getPackageManager().getPackageInfo("com.example.wearwhere", PackageManager.GET_SIGNATURES);
             for (Signature signature : info.signatures) {
