@@ -1,0 +1,72 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Satyasai\\Brain\\Wearwhere\\slideMenuLibrary\\build\\intermediates\\res\\merged\\release\\values\\values.xml",
+            "map": [
+                {
+                    "source": "E:\\Satyasai\\Brain\\Wearwhere\\slideMenuLibrary\\res\\values\\ids.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "42",
+                        "endOffsets": "93"
+                    }
+                },
+                {
+                    "source": "E:\\Satyasai\\Brain\\Wearwhere\\slideMenuLibrary\\res\\values\\attrs.xml",
+                    "from": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "619",
+                        "endLines": "44",
+                        "endColumns": "24",
+                        "endOffsets": "1801"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "98",
+                        "endLines": "29",
+                        "endColumns": "24",
+                        "endOffsets": "1261"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\Satyasai\\Brain\\Wearwhere\\slideMenuLibrary\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "E:\\Satyasai\\Brain\\Wearwhere\\slideMenuLibrary\\res\\values\\ids.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "42",
+                        "endOffsets": "93"
+                    }
+                },
+                {
+                    "source": "E:\\Satyasai\\Brain\\Wearwhere\\slideMenuLibrary\\res\\values\\attrs.xml",
+                    "from": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "619",
+                        "endLines": "44",
+                        "endColumns": "24",
+                        "endOffsets": "1801"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "98",
+                        "endLines": "29",
+                        "endColumns": "24",
+                        "endOffsets": "1261"
+                    }
+                }
+            ]
+        }
+    ]
+}

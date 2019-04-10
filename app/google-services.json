@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "101174921642",
+    "firebase_url": "https://wearwhere.firebaseio.com",
+    "project_id": "wearwhere",
+    "storage_bucket": "wearwhere.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101174921642:android:34e36ea6313e4bdc",
+        "android_client_info": {
+          "package_name": "com.example.wearwhere"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101174921642-vbjqjqgpm5i2evbjvnn3hhs493b86g58.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wearwhere",
+            "certificate_hash": "e4a2cca90bae75b1c11196f83fcf97ce6e6147a8"
+          }
+        },
+        {
+          "client_id": "101174921642-364fdmqlkicformrutlfevmqhuvtdvea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdDlPc-Keab4wCIp4EVpx1DhoR7Ebn_9E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101174921642-364fdmqlkicformrutlfevmqhuvtdvea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

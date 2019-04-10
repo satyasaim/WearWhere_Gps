@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="signupbg">#09A766</color>
+    <color name="text">#F5F2F2</color>
+    <color name="edtext">#244970</color>
+    <color name="email">#363535</color>
+    <color name="black">#000000</color>
+    <color name="mapbgcl">#A84B4747</color>
+
+</resources>

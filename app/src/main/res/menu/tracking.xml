@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/menu_currentLocation"
+        android:title="Current Location" />
+
+    <item android:id="@+id/menu_showGeofence"
+        android:title="Show Geofence" />
+
+    <item android:id="@+id/menu_setGeofence"
+        android:title="Set Geofence" />
+</menu>

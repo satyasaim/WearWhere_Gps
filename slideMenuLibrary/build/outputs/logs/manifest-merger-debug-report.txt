@@ -1,0 +1,39 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Satyasai\Brain\Wearwhere\slideMenuLibrary\AndroidManifest.xml:2:1-12:12
+INJECTED from F:\Satyasai\Brain\Wearwhere\slideMenuLibrary\AndroidManifest.xml:2:1-12:12
+INJECTED from F:\Satyasai\Brain\Wearwhere\slideMenuLibrary\AndroidManifest.xml:2:1-12:12
+INJECTED from F:\Satyasai\Brain\Wearwhere\slideMenuLibrary\AndroidManifest.xml:2:1-12:12
+INJECTED from F:\Satyasai\Brain\Wearwhere\slideMenuLibrary\AndroidManifest.xml:2:1-12:12
+INJECTED from F:\Satyasai\Brain\Wearwhere\slideMenuLibrary\AndroidManifest.xml:2:1-12:12
+INJECTED from F:\Satyasai\Brain\Wearwhere\slideMenuLibrary\AndroidManifest.xml:2:1-12:12
+	package
+		ADDED from F:\Satyasai\Brain\Wearwhere\slideMenuLibrary\AndroidManifest.xml:3:5-50
+		INJECTED from F:\Satyasai\Brain\Wearwhere\slideMenuLibrary\AndroidManifest.xml
+		INJECTED from F:\Satyasai\Brain\Wearwhere\slideMenuLibrary\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\Satyasai\Brain\Wearwhere\slideMenuLibrary\AndroidManifest.xml:5:5-30
+		INJECTED from F:\Satyasai\Brain\Wearwhere\slideMenuLibrary\AndroidManifest.xml
+		INJECTED from F:\Satyasai\Brain\Wearwhere\slideMenuLibrary\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Satyasai\Brain\Wearwhere\slideMenuLibrary\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from F:\Satyasai\Brain\Wearwhere\slideMenuLibrary\AndroidManifest.xml:4:5-28
+		INJECTED from F:\Satyasai\Brain\Wearwhere\slideMenuLibrary\AndroidManifest.xml
+		INJECTED from F:\Satyasai\Brain\Wearwhere\slideMenuLibrary\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from F:\Satyasai\Brain\Wearwhere\slideMenuLibrary\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from F:\Satyasai\Brain\Wearwhere\slideMenuLibrary\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\Satyasai\Brain\Wearwhere\slideMenuLibrary\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from F:\Satyasai\Brain\Wearwhere\slideMenuLibrary\AndroidManifest.xml:8:22-76
+uses-sdk
+INJECTED from F:\Satyasai\Brain\Wearwhere\slideMenuLibrary\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\Satyasai\Brain\Wearwhere\slideMenuLibrary\AndroidManifest.xml
+INJECTED from F:\Satyasai\Brain\Wearwhere\slideMenuLibrary\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\Satyasai\Brain\Wearwhere\slideMenuLibrary\AndroidManifest.xml
+		ADDED from F:\Satyasai\Brain\Wearwhere\slideMenuLibrary\AndroidManifest.xml
+		INJECTED from F:\Satyasai\Brain\Wearwhere\slideMenuLibrary\AndroidManifest.xml
